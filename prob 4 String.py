@@ -1,0 +1,6 @@
+m=str(input())
+n=str(input())
+o=str(input())
+p=str(input())
+z=int(len(p)/2)
+print(m,n,o,p,f"{m[:2]}{n[0]}{o[:3]}{p[:z]}",sep='\n')

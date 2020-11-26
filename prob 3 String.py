@@ -1,0 +1,5 @@
+m=str(input())
+n=str(input())
+o=str(input())
+p=str(input())
+print(m,n,o,p,f"{m} {n} {o} {p}. ",sep='\n')
